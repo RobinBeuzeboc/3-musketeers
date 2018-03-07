@@ -65,7 +65,8 @@ To use the library the first time, you can just type:
 ```
 It will give you all the possible command to type.
 
-![help](./img/help.jpg)
+![non](./img/help.jpg)
+
 
 Just try yourself!
 ```sh
