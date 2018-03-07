@@ -65,7 +65,7 @@ To use the library the first time, you can just type:
 ```
 It will give you all the possible command to type.
 
-![](./img/help.jpg)
+![help](./img/help.jpg)
 
 Just try yourself!
 ```sh
@@ -77,10 +77,12 @@ Just try yourself!
 
 The **save** command will allow you to modify the targeted currencies.
 ```sh
-> node index.js --save usd eur pln aud or whatever you want
+> node index.js --save usd eur pln aud or whatever you wants
 ```
 
 As you can see, you can use the library in several ways.
 You also have some exemples. Do not forget to go on this [page](http://askep.us/currencies) to see what are the available currencies.
 
 *Do not forget that you need an internet connection, since we use an online API*
+
+![oui](./img/index.jpg)
